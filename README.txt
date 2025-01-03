@@ -10,7 +10,7 @@ Donate link: https://www.wellgotrip.com/
 
 == Description ==
 
-The **Login Template Plugin** allows WordPress site administrators to select from a variety of pre-built login page templates, providing an easy way to customize the login experience without coding. 
+The **Custom Login Template** allows WordPress site administrators to select from a variety of pre-built login page templates, providing an easy way to customize the login experience without coding. 
 
 With this plugin, you can:
 - Choose from a variety of customizable login page templates.
@@ -30,7 +30,7 @@ Whether you want a simple login screen or a more complex, styled design, this pl
 
 == Installation ==
 
-1. Upload the `login-template-plugin` folder to your WordPress `wp-content/plugins/` directory.
+1. Upload the `Custom Login Template` folder to your WordPress `wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Navigate to the plugin settings under **Settings > Login Template** to choose your preferred login template.
 4. Save your settings to apply the new template.
@@ -52,7 +52,7 @@ It is compatible with most login customization plugins. However, certain feature
 == Changelog ==
 
 = 1.0.0 =
-* Initial release of the Login Template Plugin.
+* Initial release of the Custom Login Template.
 * Users can select and apply login page templates from the WordPress admin.
 
 == Screenshots ==
