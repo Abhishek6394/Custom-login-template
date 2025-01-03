@@ -1,4 +1,4 @@
-=== Login Template Plugin ===
+=== Custom Login Template ===
 Contributors: @abhishek6394
 Tags: login, templates, custom login, login page, WordPress login, customization
 Requires at least: 5.0
@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.wellgotrip.com/
-
+Email : abhisheksaini62358@gmail.com
 == Description ==
 
 The **Custom Login Template** allows WordPress site administrators to select from a variety of pre-built login page templates, providing an easy way to customize the login experience without coding. 
