@@ -17,7 +17,7 @@
  * Plugin URI:        https://www.wellgotrip.com
  * Description:       This plugin allows users to select from various pre-existing login page templates directly within the WordPress dashboard. Choose a template from a list of options, and easily customize the look and feel of your site's login page without the need for custom coding.
  * Version:           1.0.0
- * Author:            Abhishek Saini
+ * Author:            @abhishek6394
  * Author URI:        https://www.wellgotrip.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
