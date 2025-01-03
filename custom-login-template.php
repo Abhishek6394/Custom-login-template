@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://https://www.wellgotrip.com/
+ * @link              https://www.wellgotrip.com
  * @since             1.0.0
  * @package           Custom_Login_Template
  *
  * @wordpress-plugin
  * Plugin Name:       Custom Login Template
- * Plugin URI:        https://https://www.wellgotrip.com/
+ * Plugin URI:        https://www.wellgotrip.com
  * Description:       This plugin allows users to select from various pre-existing login page templates directly within the WordPress dashboard. Choose a template from a list of options, and easily customize the look and feel of your site's login page without the need for custom coding.
  * Version:           1.0.0
  * Author:            Abhishek Saini
- * Author URI:        https://https://www.wellgotrip.com//
+ * Author URI:        https://www.wellgotrip.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       custom-login-template
