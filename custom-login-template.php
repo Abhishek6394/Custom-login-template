@@ -22,6 +22,7 @@
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       custom-login-template
+ * Email:             abhisheksaini62358@gmail.com 
  * Domain Path:       /languages
  */
 
