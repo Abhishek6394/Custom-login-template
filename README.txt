@@ -1,5 +1,5 @@
 === Login Template Plugin ===
-Contributors: Abhishek Saini
+Contributors: @abhishek6394
 Tags: login, templates, custom login, login page, WordPress login, customization
 Requires at least: 5.0
 Tested up to: 6.0
